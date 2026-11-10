@@ -1,0 +1,11 @@
+requests
+duckduckgo-search
+pyttsx3
+faster-whisper
+sounddevice
+scipy
+pillow
+mss
+psutil
+python-dotenv
+rich
